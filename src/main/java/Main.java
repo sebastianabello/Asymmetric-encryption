@@ -8,7 +8,6 @@ public class Main {
 
         // Generar y guardar claves
         RSAKeyPairGenerator.generateKeys();
-
         System.out.println("Claves generadas y guardadas en 'publicKey.txt' y 'privateKey.txt'.");
 
         // Encriptar

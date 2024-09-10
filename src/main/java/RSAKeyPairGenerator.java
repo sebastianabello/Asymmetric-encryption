@@ -4,7 +4,6 @@ import java.security.spec.X509EncodedKeySpec;
 import java.util.Base64;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.nio.file.Path;
 
 public class RSAKeyPairGenerator {
     // Generar y guardar claves públicas y privadas
